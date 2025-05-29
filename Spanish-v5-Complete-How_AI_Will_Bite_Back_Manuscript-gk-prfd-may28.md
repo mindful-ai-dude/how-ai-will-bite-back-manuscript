@@ -1,4 +1,4 @@
-![Portada del Libro](images-art-How%20AI%20Will%20Bite%20Back-Book/1-Book%20Cover%20-%20How%20AI%20Will%20Bite%20Back%20-%20Puppies.png)
+![Portada del Libro](images-art-How%20AI%20Will%20Bite%20Back-Book/1-Spanish-Co%CC%81mo%20la%20IA%20nos%20devolvera%CC%81%20el%20golpe%20-%20Tecnologi%CC%81a%20y%20la%20venganza%20de%20las%20consecuencias%20imprevistas.png)
 
 # Sobre el Autor
 
