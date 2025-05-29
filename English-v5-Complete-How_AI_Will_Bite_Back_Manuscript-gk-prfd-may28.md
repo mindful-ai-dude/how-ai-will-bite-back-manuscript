@@ -8,7 +8,7 @@ He is an American with ancestral roots that trace across six heritages, African,
 
 Part of his childhood was divided between the USA and Europe, thanks in part to a visionary mother, Valerie, who ran a transatlantic wholesale import business and nurtured Gregory’s love for travel, food and cultures. At 14 years old, he told his mother he would one day move to Europe—and he did. He spent 17 years living in Vienna, Austria, working for 10 years with the 100-year-old conflict resolution organization IFOR. This same organizations USA branch, F.O.R. USA, trained Dr. Martin Luther King Jr., through the mentorship of Dr. James Lawson, a civil rights icon whom Gregory personally interviewed decades later.
 
-His grandmother, Beyrl Kennedy, was a dear friend of Dr. King and cooked comfort meals for him in Chicago on several occassions. His parents marched with Dr. King in Chicago and mom volunteered for the Southern Christian Leadership Youth Movements poverty program. These roots are not just history—they are Gregory’s inheritance.
+His grandmother, Beryl Kennedy, was a dear friend of Dr. King and cooked comfort meals for him in Chicago on several occassions. His parents marched with Dr. King in Chicago and mom volunteered for the Southern Christian Leadership Youth Movements poverty program. These roots are not just history—they are Gregory’s inheritance.
 
 He carried that legacy into the halls of the United Nations in Vienna, and across borders. He has worked in more than 20 countries, including travels in Africa—particularly Uganda and Tanzania—where he collaborated with the legendary Dr. Jane Goodall and had the incredible experience of meeting Dr. Jane's family, that included her son and grandchildren. He even stayed in Dr. Goodall’s home.
 
