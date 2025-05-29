@@ -4,7 +4,7 @@
 
 Gregory Kennedy is an AI systems engineer, designer, educator, award winning filmmaker, and ethical technologist whose life has been shaped as much by pilgrimage as by pixels and bytes.
 
-He is an American with ancestral roots that trace across six heritages, African, French, Irish, Mexican, and two Indigenous American nations: the Blackfoot and the Atakapa. His family has lived in the United States for over 400 years. This deep cultural resonance gives Gregory a unique ability to see systems—both social and technological—as interconnected ecologies.
+He is an American with ancestral roots that trace across six heritages, African, French, Irish, Mexican, and two Indigenous Native American nations: the Blackfoot and the Atakapa. His family has lived in the United States for over 400 years. This deep cultural resonance gives Gregory a unique ability to see systems—both social and technological—as interconnected ecologies.
 
 Part of his childhood was divided between the USA and Europe, thanks in part to a visionary mother, Valerie, who ran a transatlantic wholesale import business and nurtured Gregory’s love for travel, food and cultures. At 14 years old, he told his mother he would one day move to Europe—and he did. He spent 17 years living in Vienna, Austria, working for 10 years with the 100-year-old conflict resolution organization IFOR. This same organizations USA branch, F.O.R. USA, trained Dr. Martin Luther King Jr., through the mentorship of Dr. James Lawson, a civil rights icon whom Gregory personally interviewed decades later.
 
