@@ -1,4 +1,4 @@
-![Buchcover](images-art-How%20AI%20Will%20Bite%20Back-Book/1-Book%20Cover%20-%20How%20AI%20Will%20Bite%20Back%20-%20Puppies.png)
+![Buchcover](1-German-Wie die KI zurückschlagen wird - Technologie und die Rache der unbeabsichtigten Folgen.png)
 
 # Über den Autor
 
@@ -2044,4 +2044,4 @@ Sie sind unsere Kompasspunkte.
 
 > **Denn die Ausrichtung von Maschinen beginnt mit der Ausrichtung von uns selbst.**
 
-![Buchcover](images-art-How%20AI%20Will%20Bite%20Back-Book/2-image-best-How%20AI%20Will%20Bite%20Back-back-book-cover.png)
+![Buchcover](2-German-Wie die KI zurückschlagen wird - Technologie und die Rache der unbeabsichtigten Folgen.png)
