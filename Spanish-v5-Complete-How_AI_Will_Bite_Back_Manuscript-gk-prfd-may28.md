@@ -2044,4 +2044,4 @@ Son nuestros puntos de brújula.
 
 > **Porque alinear máquinas comienza con alinearnos a nosotros mismos.**
 
-![Portada del Libro](images-art-How%20AI%20Will%20Bite%20Back-Book/2-image-best-How%20AI%20Will%20Bite%20Back-back-book-cover.png)
+![Portada del Libro](images-art-How%20AI%20Will%20Bite%20Back-Book/2-Spanish-Co%CC%81mo%20la%20IA%20nos%20devolvera%CC%81%20el%20golpe%20-%20Tecnologi%CC%81a%20y%20la%20venganza%20de%20las%20consecuencias%20imprevistas.png)
