@@ -38,7 +38,7 @@ To this day, that childlike curiosity and imagination never left him. Whether de
 
 This book is a walk through that paradox. It draws from code, culture, policy, and philosophy. It addresses not just the systems, but the assumptions that shape them. It is neither a utopian hymn nor a dystopian howl. It’s a reckoning—wrapped in humility, mixed in with a little fear and sprinkled with morsels of hope.
 
-The journey will take readers from recursive AIs capable of self-replication (RepliBench) and alignment faking (Anthropic), to Gregory Kennedy's and Dr. Justin Smith's original Stake-Your-Reputation (SYRP) Protocol—first conceived in 2018 and now evolved into the groundbreaking SYRP-ARTTT integration—an algorithmic protocol for trust and adaptive AI in a world desperately short on both. 
+The journey will take readers from recursive AIs capable of self-replication (RepliBench) and alignment faking (Anthropic), to Gregory Kennedy's and Dr. Justin Smith's original Stake-Your-Reputation (SYRP) Algorithm and Protocol—first conceived in 2018 and now evolved into the groundbreaking SYRP-ARTTT integration—an algorithmic protocol for trust and adaptive AI in a world desperately short on both. 
 
 We'll consider the global implications spotlighted by the International AI Safety Report 2025 and perspectives from Helen Toner, Mo Gawdat, Ruha Benjamin, Kate Crawford, Neil Degrasse Tyson, Seth MacFarlane, and others. Each voice amplifies a different thread of the same tapestry: AI's impact is personal, political, planetary.
 
