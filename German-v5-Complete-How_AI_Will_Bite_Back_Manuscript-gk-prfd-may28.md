@@ -1,4 +1,4 @@
-![Buchcover](1-German-Wie die KI zurückschlagen wird - Technologie und die Rache der unbeabsichtigten Folgen.png)
+![Buchcover](images-art-How AI Will Bite Back-Book/1-German-Wie die KI zurückschlagen wird - Technologie und die Rache der unbeabsichtigten Folgen.png) 
 
 # Über den Autor
 
