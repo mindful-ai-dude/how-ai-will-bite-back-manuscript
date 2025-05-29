@@ -32,7 +32,7 @@ This book began not with a whiteboard or a dataset, but with a childhood gaze li
 
 Before Gregory Kennedy became an AI thinker and tinkerer, he was a sci-fi dreamer. A person who could quote Spock, Yoda, and Skywalker in the same breath. Who watched *2001: A Space Odyssey* and didn’t just wonder *what if*, but *why not?* Who instinctively felt that stories weren’t just entertainment—they were premonitions of the future.
 
-To this day, that childlike curiosity and imagination never left him. Whether designing AI systems or working with a Zen Master, or Dr. Jane goodall and chimpanzees, Gregory learned that the questions we ask—about equity, power, ecological and social responsibility—matter far more than the technologies we build.
+To this day, that childlike curiosity and imagination never left him. Whether designing AI systems or working with a Zen Master, or Dr. Jane Goodall and chimpanzees, Gregory learned that the questions we ask—about equity, power, ecological and social responsibility—matter far more than the technologies we build.
 
 "Because technology, especially artificial intelligence, is not neutral. Like a mirror, it reflects us. Our desires, our fears, our incentives. As we move from predicting text and optimizing engagement to rewriting laws, we must recognize this as a pivotal civilizational moment." - Gregory
 
