@@ -1,4 +1,4 @@
-![Buchcover](images-art-How%20AI%20Will%20Bite%20Back-Book/1-German-Wie%20die%20KI%20zur%C3%BCckschlagen%20wird%20-%20Technologie%20und%20die%20Rache%20der%20unbeabsichtigten%20Folgen.png) 
+![Buchcover](images-art-How%20AI%20Will%20Bite%20Back-Book/1-German-Wie%20die%20KI%20zur%C3%BCckschlagen%20wird%20-%20Technologie%20und%20die%20Rache%20der%20unbeabsichtigten%20Folgen.png)
 
 # Über den Autor
 
