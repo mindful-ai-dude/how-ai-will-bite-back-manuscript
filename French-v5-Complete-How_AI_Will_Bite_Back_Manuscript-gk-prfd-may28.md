@@ -1,4 +1,4 @@
-![Couverture du Livre](images-art-How%20AI%20Will%20Bite%20Back-Book/1-Book%20Cover%20-%20How%20AI%20Will%20Bite%20Back%20-%20Puppies.png)
+![Couverture du Livre](images-art-How%20AI%20Will%20Bite%20Back-Book/1-French-Comment%20l'IA%20se%20retournera%20contre%20nous%20-%20Technologie%20et%20la%20revanche%20des%20conséquences%20involontaires.png)
 
 # À propos de l'auteur
 
@@ -2044,4 +2044,4 @@ Ce sont nos points cardinaux.
 
 > **Parce que l'alignement des machines commence par notre propre alignement.**
 
-![Couverture du Livre](images-art-How%20AI%20Will%20Bite%20Back-Book/2-image-best-How%20AI%20Will%20Bite%20Back-back-book-cover.png)
+![Couverture du Livre](images-art-How%20AI%20Will%20Bite%20Back-Book/2-French-Comment%20l'IA%20se%20retournera%20contre%20nous%20-%20Technologie%20et%20la%20revanche%20des%20conséquences%20involontaires.png)
